@@ -1,4 +1,4 @@
-# React Photo Manager
+# Firebase Photo Manager
 This is a React photo web app using Firebase Auth and Firebase Storage
 
 # Important
@@ -37,5 +37,3 @@ I am using Node version v18.18.0 to run the command "npx create-react-app fireba
 ## Delete Image
     1. Delete an image from the storage by supplying the filename
 =======
-# PhotoApp
->>>>>>> 013b7aed39b2539a940cdd730e4d4f235d68bb60
