@@ -36,4 +36,3 @@ I am using Node version v18.18.0 to run the command "npx create-react-app fireba
     1. Select the image from the dropdown menu and update the description of the image
 ## Delete Image
     1. Delete an image from the storage by supplying the filename
-=======
