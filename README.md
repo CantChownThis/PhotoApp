@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # React Photo Manager
 This is a React photo web app using Firebase Auth and Firebase Storage
 
